@@ -1,0 +1,724 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MxTQEAAAQBAJ",
+      "etag": "SwyU8KQbXFY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MxTQEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Business Model Book",
+        "subtitle": "Design, Build And Adapt Business Ideas That Drive Business Growth",
+        "authors": ["Adam J. Bock"],
+        "publisher": "Pearson UK",
+        "publishedDate": "2018-01-09",
+        "description": "Business models are the beating heart of your firm's value proposition. Great business models drive rapid growth; bad business models can doom the most promising ventures. Brilliant Business Models clearly shows you how to create, test, adapt, and innovate successful and appropriate business models in any business context.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781292135717"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1292135719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MxTQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MxTQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MxTQEAAAQBAJ&printsec=frontcover&dq=9781292135700&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MxTQEAAAQBAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Business_Model_Book.html?hl=&id=MxTQEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Business_Model_Book-sample-pdf.acsm?id=MxTQEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MxTQEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Business models are the beating heart of your firm&#39;s value proposition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KZ-Al5RBnNUC",
+      "etag": "hwFEZWD/u+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KZ-Al5RBnNUC",
+      "volumeInfo": {
+        "title": "Models of Opportunity",
+        "subtitle": "How Entrepreneurs Design Firms to Achieve the Unexpected",
+        "authors": ["Gerard George", "Adam J. Bock"],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2012-02-16",
+        "description": "The time has come to overhaul what we know about entrepreneurship and business models. This book links scholarly research on business models and organisational design to the reality of building entrepreneurial firms. It provides actionable advice based on a deeper understanding of how business models function and change.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521765077"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521765072"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KZ-Al5RBnNUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KZ-Al5RBnNUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KZ-Al5RBnNUC&printsec=frontcover&dq=9781292135700&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KZ-Al5RBnNUC&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Models_of_Opportunity.html?hl=&id=KZ-Al5RBnNUC"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Models_of_Opportunity-sample-pdf.acsm?id=KZ-Al5RBnNUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KZ-Al5RBnNUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The time has come to overhaul what we know about entrepreneurship and business models. This book links scholarly research on business models and organisational design to the reality of building entrepreneurial firms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Z460AEACAAJ",
+      "etag": "sJaHXe0fLNE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Z460AEACAAJ",
+      "volumeInfo": {
+        "title": "Chemistry ISE",
+        "authors": ["Raymond Chang", "Jason Overby"],
+        "publishedDate": "2024-03-19",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1266817441"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781266817441"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Z460AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Z460AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7Z460AEACAAJ&dq=9781292135700&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7Z460AEACAAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chemistry_ISE.html?hl=&id=7Z460AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Z460AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YuS7VfTa5_8C",
+      "etag": "wQHQs7wcHyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YuS7VfTa5_8C",
+      "volumeInfo": {
+        "title": "The Management of Technological Innovation",
+        "subtitle": "Strategy and Practice",
+        "authors": ["Mark Dodgson", "David M. Gann", "Ammon Salter"],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2008-02-07",
+        "description": "The management of technological innovation (MTI) is one of the most important challenges facing businesses today. Innovation has become the fundamental driver of competitiveness for firms of all sizes in virtually all business sectors and nations. The first edition of this book has become one of the most popular texts for students of innovation and technology management. This new edition sees David Gann and Ammon Salter join Mark Dodgson as authors, drawing on their combined experience of 60 years of researching and teaching MTI. It combines the most relevant theoretical analysis with contemporary and historical empirical evidence to provide a comprehensive, yet concise and readable, guide to the challenges of MTI. By explaining the innovation process the book reveals the broad scope of MTI and its importance for company survival, growth and sustainability. It describes how MTI has to be managed strategically and how this is successfully achieved by formulating and implementing strategy and delivering value. Chapters provide frameworks, tools and techniques, and case studies on managing: innovation strategy, communities, and networks, R&D, design and new product and service development, operations and production, and commercialization. Based on robust analysis, the book provides a wide range of empirical evidence from a huge diversity of case studies, with around fifty case studies newly written for this edition. It analyses MTI in all parts of the world, in companies large and small, and in services, manufacturing, and resource-based business sectors. This new edition has been fully revised and updated to reflect the latest teaching and research, and to ensure its continuing relevance to the contemporary world of MTI. It will be an important resource for academics, students, and managers throughout the world, is a recommended text for students of innovation and technology management at postgraduate and undergraduate level, and is particularly valuable for MBA courses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780191622625"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0191622621"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YuS7VfTa5_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YuS7VfTa5_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YuS7VfTa5_8C&printsec=frontcover&dq=9781292135700&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YuS7VfTa5_8C&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Management_of_Technological_Innovati.html?hl=&id=YuS7VfTa5_8C"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Management_of_Technological_Innovati-sample-epub.acsm?id=YuS7VfTa5_8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Management_of_Technological_Innovati-sample-pdf.acsm?id=YuS7VfTa5_8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YuS7VfTa5_8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The first edition of this book has become one of the most popular texts for students of innovation and technology management."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T6lztAEACAAJ",
+      "etag": "IdcoQE4iizA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T6lztAEACAAJ",
+      "volumeInfo": {
+        "title": "The Business Models Handbook",
+        "subtitle": "Templates, Theory and Case Studies",
+        "authors": ["Paul Hague"],
+        "publisher": "Kogan Page",
+        "publishedDate": "2019-01-03",
+        "description": "Benefit from a reliable collection of the most valuable business models, including detailed coverage of each model, expertly explained theory, as well as case studies and supporting templates.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0749481870"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780749481872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T6lztAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T6lztAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=T6lztAEACAAJ&dq=9781292135700&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=T6lztAEACAAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Business_Models_Handbook.html?hl=&id=T6lztAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T6lztAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Benefit from a reliable collection of the most valuable business models, including detailed coverage of each model, expertly explained theory, as well as case studies and supporting templates."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QWRlAAAACAAJ",
+      "etag": "eTJWqPShbSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QWRlAAAACAAJ",
+      "volumeInfo": {
+        "title": "Inventing Entrepreneurs",
+        "subtitle": "Technology Innovators and Their Entrepreneurial Journey",
+        "authors": ["Gerard George", "Adam J. Bock"],
+        "publisher": "Prentice Hall",
+        "publishedDate": "2009",
+        "description": "This book discusses the various paths and decisions that the entrepreneur will experience on their journey, as well as insights and tools to prepare them for it. This book emphasizes research on inventing entrepreneurs, explaining the critical factors that spark and fuel successful entrepreneurial journeys. For the business professional interested in exploring the entrepreneurial journeys of successful entrepreneurs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0131574701"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780131574700"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Entrepreneurship"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QWRlAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QWRlAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QWRlAAAACAAJ&dq=9781292135700&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QWRlAAAACAAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Inventing_Entrepreneurs.html?hl=&id=QWRlAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QWRlAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book discusses the various paths and decisions that the entrepreneur will experience on their journey, as well as insights and tools to prepare them for it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5n_qEAAAQBAJ",
+      "etag": "+WUWlz20Bb0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5n_qEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Business Analytics and Statistics, 2nd Edition",
+        "authors": [
+          "Ken Black",
+          "John Asafu-Adjaye",
+          "Paul Burke",
+          "Nazim Khan",
+          "Gerard King",
+          "Nelson Perera",
+          "Andrew Papadimos",
+          "Carl Sherwood",
+          "Saleh Wasimi"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2024-04-08",
+        "description": "Written for the Australian and New Zealand markets, the second edition of Business Analytics & Statistics (Black et al.) presents statistics in a cutting-edge interactive digital format designed to motivate students by taking the road blocks out of self-study and to facilitate master through drill-and-skill practice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781394189670"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1394189672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 643,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5n_qEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5n_qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5n_qEAAAQBAJ&printsec=frontcover&dq=9781292135700&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5n_qEAAAQBAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Business_Analytics_and_Statistics_2nd_Ed.html?hl=&id=5n_qEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Business_Analytics_and_Statistics_2nd_Ed-sample-pdf.acsm?id=5n_qEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5n_qEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written for the Australian and New Zealand markets, the second edition of Business Analytics &amp; Statistics (Black et al.) presents statistics in a cutting-edge interactive digital format designed to motivate students by taking the road ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wmO2AgAAQBAJ",
+      "etag": "MkxK2cKtUgs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wmO2AgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Year with the Producers",
+        "subtitle": "One Actor's Exhausting (But Worth It) Journey from Cats to Mel Brooks' Mega-Hit",
+        "authors": ["Jeffry Denman"],
+        "publisher": "Routledge",
+        "publishedDate": "2014-01-27",
+        "description": "A behind-the-scenes story with more than a touch of theatrical magic about it, A Year with The Producers is a book for actors and theater fans everywhere.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781135868987"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1135868980"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": ["Biography & Autobiography"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wmO2AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wmO2AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wmO2AgAAQBAJ&printsec=frontcover&dq=9781292135700&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wmO2AgAAQBAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Year_with_the_Producers.html?hl=&id=wmO2AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/A_Year_with_the_Producers-sample-pdf.acsm?id=wmO2AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wmO2AgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A behind-the-scenes story with more than a touch of theatrical magic about it, A Year with The Producers is a book for actors and theater fans everywhere."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JomrDwAAQBAJ",
+      "etag": "8TLzRUdMQOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JomrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Management Accounting, 4th Edition",
+        "authors": [
+          "Leslie G. Eldenburg",
+          "Albie Brooks",
+          "Judy Oliver",
+          "Gillian Vesty",
+          "Rodney Dormer",
+          "Vijaya Murthy",
+          "Nick Pawsey"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2020-01-21",
+        "description": "Eldenburg’s fourth edition of Management Accounting combines the basic technical issues associated with cost management, management accounting and control with more recent and emerging themes and issues. Management Accounting is a compulsory element of the accounting major, and this text is written to cover the content typically taught in the two management accounting units offered in most accounting programs. The Management Accounting interactive e-text features a range of instructional media content designed to provide students with an engaging learning experience. This includes case videos, interactive problems and questions with immediate feedback. Eldenburg’s unique resource can also form the basis of a blended learning solution for lecturers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780730369387"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0730369382"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 755,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JomrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JomrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JomrDwAAQBAJ&printsec=frontcover&dq=9781292135700&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JomrDwAAQBAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Management_Accounting_4th_Edition.html?hl=&id=JomrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Management_Accounting_4th_Edition-sample-pdf.acsm?id=JomrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JomrDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Management Accounting is a compulsory element of the accounting major, and this text is written to cover the content typically taught in the two management accounting units offered in most accounting programs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jFroEAAAQBAJ",
+      "etag": "gLwpaoCY/bI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jFroEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Essentials of Microeconomics",
+        "authors": ["Bonnie Nguyen", "Andrew Wait"],
+        "publisher": "Taylor & Francis",
+        "publishedDate": "2024-01-26",
+        "description": "Essentials of Microeconomics is an excellent introduction to microeconomics. It presents the basic tools of microeconomics clearly and concisely. It presents a vigorous treatment of all relevant introductory microeconomic concepts, and emphasises on modern economics – game theory and imperfect markets. Each chapter is self-contained and includes the required key mathematical skills at the start. Now in its second edition, this updated textbook includes: • Expanded lecturer resources, including detailed lecture slides, sample exam questions and updated test bank multiple choice questions • An additional section on Economics in Practice, focused on policy, econometrics and behavioural economics This book is ideal not only for introductory microeconomics courses, but its level of analysis also makes the book appropriate for introductory level economics taught at postgraduate level. With the emphasis on strategy, this text is also well suited for use in business economics courses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781003821533"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1003821537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 277,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jFroEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jFroEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jFroEAAAQBAJ&printsec=frontcover&dq=9781292135700&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jFroEAAAQBAJ&dq=9781292135700&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essentials_of_Microeconomics.html?hl=&id=jFroEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Essentials_of_Microeconomics-sample-pdf.acsm?id=jFroEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jFroEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With the emphasis on strategy, this text is also well suited for use in business economics courses."
+      }
+    }
+  ]
+}
