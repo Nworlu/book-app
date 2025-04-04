@@ -21,6 +21,8 @@ import {
 } from "firebase/firestore";
 import { FIREBASE_DB } from "@/config/FirebaseConfig";
 import { Stack, useRouter } from "expo-router";
+import * as FileSystem from "expo-file-system";
+import storage from "@react-native-firebase/storage";
 
 const list = () => {
   const [scanned, setScanned] = useState(false);
@@ -39,6 +41,34 @@ const list = () => {
       setBooks(books);
     });
   }, []);
+
+  // console.log(books, "kkkk");
+
+  const downloadAndUploadPDF = async (pdfUrl: string, fileUri: string) => {
+    try {
+      // const pdfUrl = 'https://example.com/sample.pdf'; // Replace with actual PDF URL
+      // const fileUri = FileSystem.cacheDirectory + 'sample.pdf';
+
+      // Download the PDF
+      const { uri } = await FileSystem.downloadAsync(pdfUrl, fileUri);
+      console.log("PDF downloaded to:", uri);
+
+      // Read the file as a blob
+      const fileData = await FileSystem.readAsStringAsync(uri, {
+        encoding: FileSystem.EncodingType.Base64,
+      });
+
+      // Convert to Blob and Upload to Firebase
+      const reference = storage().ref("uploads/sample.pdf");
+      await reference.putString(fileData, "base64", {
+        contentType: "application/pdf",
+      });
+
+      console.log("Upload successful");
+    } catch (error) {
+      console.error("Error downloading or uploading PDF:", error);
+    }
+  };
 
   useEffect(() => {
     const getCameraPermissions = async () => {
@@ -65,12 +95,12 @@ const list = () => {
         return;
       }
 
+      console.log(bookData.items[0], "jjjfjfjjjfjjf");
       if (books.find((book) => book.bookId === bookData.items[0].id)) {
         alert("Book already exists in the list.");
         return;
       }
 
-      console.log(bookData.items[0], "jjjfjfjjjfjjf");
       addBook(bookData.items[0]);
     } catch (error) {
       console.error("Error fetching book:", error);
